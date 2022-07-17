@@ -23,4 +23,4 @@
 `tar xzf code-config.tar.gz`  
 `mv *.json /home/$USER/.config/Code/User`
 
-Source : [https://blog.dzarsky.eu/how-to-backup-your-vs-code-extensions-and-settings](http://https://blog.dzarsky.eu/how-to-backup-your-vs-code-extensions-and-settings)
+Source : [https://blog.dzarsky.eu/how-to-backup-your-vs-code-extensions-and-settings](https://blog.dzarsky.eu/how-to-backup-your-vs-code-extensions-and-settings)
